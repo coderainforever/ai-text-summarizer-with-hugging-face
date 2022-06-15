@@ -1,7 +1,6 @@
-# ai-text-summarizer-with-hugging-face
-AI Text Summarization with Hugging Face Transformers
+# AI Text Summarization with Hugging Face Transformers
 
-Text Summarization with Hugging Face Transformers
+A Natural Language Processing Project 
 
 1. Installing Hugging Face Transformers
 
